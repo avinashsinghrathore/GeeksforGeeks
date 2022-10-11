@@ -5,3 +5,4 @@ you have to find the given number is present in array or not
 solution
 
 first step will be (run a loop which will iterate over every element till to the last
+and second step will be compare each element with the key element(element which have to found).
