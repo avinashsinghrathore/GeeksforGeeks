@@ -10,3 +10,6 @@ and second step will be compare each element with the key element(element which 
 if element is found it will return ndex at which element is found
 
 and if not element is found then it will return -1
+
+
+thanks for giving this explanation
