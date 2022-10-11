@@ -12,4 +12,3 @@ if element is found it will return index at which element is found
 and if not element is found then it will return -1
 
 
-this approach can be applied to other problem also
