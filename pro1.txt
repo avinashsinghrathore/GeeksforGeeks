@@ -1,0 +1,7 @@
+problem statement is 
+
+you have to find the given number is present in array or not
+
+solution
+
+first step will be (run a loop which will iterate over every element till to the last
